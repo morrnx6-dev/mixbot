@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Margarita",
+    "spirits": ["Tequila"],
+    "liqueur": ["Triple Sec", "Sugar Syrup"],
+    "ingredients": ["Lime", "Salt", "Ice"],
+    "moods": ["Happy", "Outgoing", "Energetic"],
+    "tastes": ["Sour", "Citrusy", "Boozy", "Salty"],
+    "type": ["Shaken", "Short"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Woo Woo",
+    "spirits": ["Vodka", "Peach Schnapps"],
+    "liqueur": [],
+    "ingredients": ["Lime", "Cranberry Juice", "Ice"],
+    "moods": ["Nostalgic", "Buzzed"],
+    "tastes": ["Boozy", "Sweet", "Fruity", "Classic"],
+    "type": ["Shaken", "Long"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Mojito",
+    "spirits": ["White Rum"],
+    "liqueur": ["Sugar Syrup"],
+    "ingredients": ["Mint", "Lime", "Sparkling Water", "Ice"],
+    "moods": ["Buzzed", "Lively", "Excited"],
+    "tastes": ["Classic", "Yummy", "Boozy", "Bitter"],
+    "type": ["Long", "Stirred"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Cosmopolitan",
+    "spirits": ["Vodka"],
+    "liqueur": ["Triple Sec"],
+    "ingredients": ["Cranberry Juice", "Lime", "Ice"],
+    "moods": ["Outgoing", "Adventurous", "Excited"],
+    "tastes": ["Fruity", "Sour", "Citrusy"],
+    "type": ["Shaken", "Short"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Whiskey Sour",
+    "spirits": ["Whiskey"],
+    "liqueur": ["Sugar Syrup"],
+    "ingredients": ["Lemon", "Egg White", "Bitters", "Ice"],
+    "moods": ["Mysterious", "Thirsty", "Tipsy"],
+    "tastes": ["Sour", "Sweet", "Bitter"],
+    "type": ["Shaken", "Short"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Piña Colada",
+    "spirits": ["White Rum"],
+    "liqueur": ["Sugar Syrup"],
+    "ingredients": ["Pineapple Juice", "Coconut Cream", "Ice"],
+    "moods": ["Outgoing", "Nostalgic", "Adventurous"],
+    "tastes": ["Fruity", "Sweet", "Yummy"],
+    "type": ["Long", "Shaken"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Mai Tai",
+    "spirits": ["Dark Rum", "White Rum"],
+    "liqueur": ["Orange Curaçao", "Almond Syrup", "Sugar Syrup"],
+    "ingredients": ["Lime", "Mint", "Ice"],
+    "moods": ["Adventurous", "Excited", "Tipsy"],
+    "tastes": ["Fruity", "Sweet", "Citrusy", "Boozy"],
+    "type": ["Shaken", "Short"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Blue Lagoon",
+    "spirits": ["Vodka"],
+    "liqueur": ["Blue Curaçao"],
+    "ingredients": ["Lemon", "Cherries", "Ice"],
+    "moods": ["Energetic", "Goofy", "Nostalgic"],
+    "tastes": ["Yummy", "Classic", "Sour"],
+    "type": ["Long", "Stirred"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Strawberry Daiquiri",
+    "spirits": ["White Rum"],
+    "liqueur": ["Sugar Syrup"],
+    "ingredients": ["Strawberries", "Lime", "Ice"],
+    "moods": ["Excited", "Lively", "Thirsty"],
+    "tastes": ["Sweet", "Boozy"],
+    "type": ["Shaken", "Short"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Espresso Martini",
+    "spirits": ["Vodka"],
+    "liqueur": ["Coffee Liqueur", "Sugar Syrup"],
+    "ingredients": ["Espresso", "Ice"],
+    "moods": ["Happy", "Energetic", "Excited"],
+    "tastes": ["Boozy", "Sweet", "Bitter"],
+    "type": ["Shaken", "Short"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Caipirinha",
+    "spirits": ["White Rum"],
+    "liqueur": ["Sugar Syrup"],
+    "ingredients": ["Lime", "Ice"],
+    "moods": ["Adventurous", "Buzzed", "Outgoing"],
+    "tastes": ["Citrusy", "Sweet", "Boozy"],
+    "type": ["Short", "Shaken"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Long Island Iced Tea",
+    "spirits": ["Vodka", "Tequila", "White Rum", "Gin"],
+    "liqueur": ["Triple Sec"],
+    "ingredients": ["Lemon", "Cola", "Sugar Syrup", "Ice"],
+    "moods": ["Buzzed", "Tipsy", "Goofy"],
+    "tastes": ["Sweet", "Boozy", "Citrusy"],
+    "type": ["Long", "Stirred"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Tom Collins",
+    "spirits": ["Gin"],
+    "liqueur": ["Sugar Syrup"],
+    "ingredients": ["Lemon", "Sparkling Water", "Ice"],
+    "moods": ["Thirsty", "Adventurous", "Mysterious"],
+    "tastes": ["Citrusy", "Sweet", "Bitter"],
+    "type": ["Long", "Shaken"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Rum Punch",
+    "spirits": ["Dark Rum", "White Rum"],
+    "liqueur": ["Sugar Syrup", "Grenadine"],
+    "ingredients": ["Orange Juice", "Pineapple Juice", "Lime", "Ice"],
+    "moods": ["Lively", "Outgoing", "Happy"],
+    "tastes": ["Fruity", "Sweet", "Boozy"],
+    "type": ["Long", "Shaken"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Aperol Spritz",
+    "spirits": ["Aperol", "Prosecco"],
+    "liqueur": [],
+    "ingredients": ["Sparkling Water", "Oranges", "Ice"],
+    "moods": ["Energetic", "Thirsty", "Happy"],
+    "tastes": ["Bitter", "Fruity", "Boozy"],
+    "type": ["Long", "Stirred"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Tequila Sunrise",
+    "spirits": ["Tequila"],
+    "liqueur": ["Grenadine"],
+    "ingredients": ["Orange Juice", "Ice"],
+    "moods": ["Mysterious", "Happy", "Buzzed"],
+    "tastes": ["Fruity", "Sweet", "Citrusy"],
+    "type": ["Long", "Stirred"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Sex on the Beach",
+    "spirits": ["Vodka", "Peach Schnapps"],
+    "liqueur": [],
+    "ingredients": ["Orange Juice", "Cranberry Juice", "Ice"],
+    "moods": ["Lively", "Happy", "Buzzed"],
+    "tastes": ["Fruity", "Sweet", "Citrusy", "Classic"],
+    "type": ["Long", "Shaken"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Amaretto Sour",
+    "spirits": ["Amaretto"],
+    "liqueur": [],
+    "ingredients": ["Lemon", "Egg White", "Cherries", "Ice"],
+    "moods": ["Lively", "Mysterious", "Adventurous"],
+    "tastes": ["Sour", "Yummy"],
+    "type": ["Short", "Shaken"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Hurricane",
+    "spirits": ["White Rum", "Dark Rum"],
+    "liqueur": ["Sugar Syrup", "Grenadine"],
+    "ingredients": ["Lemon", "Orange Juice", "Passion Fruit", "Ice"],
+    "moods": ["Outgoing", "Goofy", "Thirsty"],
+    "tastes": ["Fruity", "Sweet", "Citrusy"],
+    "type": ["Shaken", "Long"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Pink Lady",
+    "spirits": ["Gin"],
+    "liqueur": ["Grenadine"],
+    "ingredients": ["Lemon", "Egg White", "Ice"],
+    "moods": ["Lively", "Happy", "Buzzed"],
+    "tastes": ["Yummy", "Sweet"],
+    "type": ["Short", "Shaken"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Strawberry Mojito",
+    "spirits": ["White Rum"],
+    "liqueur": ["Sugar Syrup"],
+    "ingredients": ["Strawberries", "Mint", "Lime", "Sparkling Water", "Ice"],
+    "moods": ["Outgoing", "Energetic", "Excited"],
+    "tastes": ["Fruity", "Boozy", "Yummy"],
+    "type": ["Stirred", "Long"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Mint Julep",
+    "spirits": ["Whiskey"],
+    "liqueur": ["Sugar Syrup"],
+    "ingredients": ["Mint", "Ice"],
+    "moods": ["Mysterious", "Tipsy", "Outgoing"],
+    "tastes": ["Boozy", "Yummy"],
+    "type": ["Shaken", "Short"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Hugo Spritz",
+    "spirits": ["Gin", "Prosecco"],
+    "liqueur": ["Elderflower Cordial"],
+    "ingredients": ["Sparkling Water", "Lime", "Ice"],
+    "moods": ["Buzzed", "Happy", "Energetic", "Thirsty"],
+    "tastes": ["Fruity", "Yummy", "Boozy"],
+    "type": ["Stirred", "Long"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Purple Rain",
+    "spirits": ["Vodka", "Gin"],
+    "liqueur": ["Blue Curaçao", "Grenadine"],
+    "ingredients": ["Sparkling Water", "Lime", "Lemon", "Ice"],
+    "moods": ["Goofy", "Adventurous", "Nostalgic"],
+    "tastes": ["Sour", "Classic"],
+    "type": ["Stirred", "Long"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Passion Fruit Martini",
+    "spirits": ["Vodka", "Prosecco"],
+    "liqueur": ["Passion Fruit Liqueur", "Sugar Syrup"],
+    "ingredients": ["Passion Fruit", "Lime", "Ice"],
+    "moods": ["Outgoing", "Energetic", "Thirsty", "Lively"],
+    "tastes": ["Boozy", "Yummy", "Citrusy", "Classic"],
+    "type": ["Shaken", "Short"],
+    "category": "Alcoholic"
+  },
+  {
+    "name": "Virgin Mojito",
+    "spirits": [],
+    "liqueur": [],
+    "ingredients": ["Sugar", "Mint", "Lime", "Sparkling Water", "Ice"],
+    "moods": ["Lively", "Excited", "Thirsty"],
+    "tastes": ["Citrusy", "Classic", "Yummy"],
+    "type": ["Long", "Stirred"],
+    "category": "Non-Alcoholic"
+  },
+  {
+    "name": "Apple, Elderflower & Mint Sparkle",
+    "spirits": [],
+    "liqueur": ["Elderflower Cordial"],
+    "ingredients": ["Apple Juice", "Mint", "Sparkling Water", "Ice"],
+    "moods": ["Happy", "Outgoing", "Thirsty", "Buzzed"],
+    "tastes": ["Fruity", "Sweet", "Yummy", "Bitter"],
+    "type": ["Long", "Stirred", "Shaken", "Short"],
+    "category": "Non-Alcoholic"
+  },
+  {
+    "name": "Non-Alcoholic Sangria",
+    "spirits": [],
+    "liqueur": [],
+    "ingredients": ["Lemonade", "Cranberry Juice", "Orange Juice", "Orange", "Lemon", "Lime", "Strawberries", "Mint", "Ice"],
+    "moods": ["Happy", "Outgoing", "Lively", "Adventurous"],
+    "tastes": ["Fruity", "Sweet", "Citrusy"],
+    "type": ["Long", "Stirred", "Shaken", "Short"],
+    "category": "Non-Alcoholic"
+  },
+  {
+    "name": "Watermelon Cooler",
+    "spirits": [],
+    "liqueur": [],
+    "ingredients": ["Watermelon", "Lemon", "Mint", "Ice"],
+    "moods": ["Thirsty", "Happy", "Energetic", "Mysterious"],
+    "tastes": ["Fruity", "Sweet", "Yummy"],
+    "type": ["Short", "Stirred"],
+    "category": "Non-Alcoholic"
+  },
+  {
+    "name": "Mint Lemonade",
+    "spirits": [],
+    "liqueur": [],
+    "ingredients": ["Lemon", "Lime", "Sugar", "Mint", "Sparkling Water", "Ice"],
+    "moods": ["Thirsty", "Happy", "Nostalgic", "Mysterious"],
+    "tastes": ["Sour", "Citrusy", "Sweet", "Classic"],
+    "type": ["Short", "Stirred", "Long"],
+    "category": "Non-Alcoholic"
+  },
+  {
+    "name": "Fruit Punch Mocktail",
+    "spirits": [],
+    "liqueur": ["Grenadine"],
+    "ingredients": ["Orange Juice", "Sparkling Water", "Srawberries", "Ice"],
+    "moods": ["Goofy", "Nostalgic", "Happy", "Adventurous"],
+    "tastes": ["Fruity", "Sweet", "Citrusy", "Classic"],
+    "type": ["Long", "Shaken"],
+    "category": "Non-Alcoholic"
+  },
+  {
+    "name": "Passion Fruit & Elderflower Spritz",
+    "spirits": [],
+    "liqueur": ["Elderflower Cordial"],
+    "ingredients": ["Passion Fruit", "Lemon", "Sparkling Water", "Ice"],
+    "moods": ["Outgoing", "Energetic", "Thirsty", "Buzzed"],
+    "tastes": ["Fruity", "Citrusy", "Yummy"],
+    "type": ["Short", "Shaken", "Stirred", "Long"],
+    "category": "Non-Alcoholic"
+  }
+]

@@ -1,0 +1,403 @@
+{
+    "Margarita": {
+      "description": "Classic tequila and triple sec combination, mixed with lime juice. Garnish the rim of the glass with salt for that extra punch",
+      "ingredients": [
+        "Ice",
+        "50ml Tequila",
+        "25ml Lime Juice",
+        "20ml Triple Sec",
+        "Salt for garnish (Optional)",
+        "Lime Wedge for garnish (Optional)"
+      ],
+      "method": "Step 1: Sprinkle a few teaspoons of salt over the surface of a small plate or saucer. Rub one wedge of lime along the rim of a tumbler and then dip it into the salt so that the entire rim is covered.\n\nStep 2: Fill a cocktail shaker with ice, then add the Tequila, lime juice and triple sec. Shake until the outside of the shaker feels cold.\n\nStep 3: Strain the mix into the prepared glass over fresh ice. Serve with a wedge of lime."
+    },
+    "Woo Woo": {
+      "description": "Mix of vodka, peach schnapps, cranberry juice and fresh lime - making a perfect party cocktail",
+      "ingredients": [
+        "Ice",
+        "50ml Vodka",
+        "25ml Peach Schnapps",
+        "100ml Cranberry Juice",
+        "Dash of Lime Juice",
+        "Lime Wedge for garnish (Optional)"
+      ],
+      "method": "Step 1: Fill a cocktail shaker with ice then add the vodka, peach schnapps, cranberry juice and a dash of lime juice.\n\nStep 2: Shake really well then strain into a tumbler with extra ice.\n\nStep 3: Garnish with a wedge of lime."
+    },
+    "Mojito": {
+      "description": "Classic cocktail mix using fresh mint, white rum, sugar, zesty lime and cooling sparkling water",
+      "ingredients": [
+        "1 Lime, cut into wedges",
+        "15ml Sugar Syrup",
+        "Handful of Mint Leaves",
+        "60ml White Rum",
+        "Sparkling Water",
+        "Ice"
+      ],
+      "method": "Step 1: Muddle the lime wedges with the sugar syrup in a glass.\n\nStep 2: Add the mint leaves and gently bruise them.\n\nStep 3: Fill the glass with ice, pour over the white rum and top up with sparkling water. Stir well."
+    },
+    "Cosmopolitan": {
+      "description": "Lipsmackingly sweet and sour cocktail of vodka, cranberry, triple sec and citrus - this is just is a good-time in a glass",
+      "ingredients": [
+        "50ml Vodka",
+        "25ml Triple Sec",
+        "25ml Cranberry Juice",
+        "10ml Lime Juice",
+        "Ice",
+        "Orange Peel for garnish (Optional)"
+      ],
+      "method": "Step 1: Fill a cocktail shaker with ice, then add the vodka, triple sec, cranberry juice and lime juice.\n\nStep 2: Shake well until the outside of the shaker feels cold.\n\nStep 3: Strain into a martini glass and garnish with a twist of orange peel."
+    },
+    "Whiskey Sour": {
+      "description": "Classic cocktail combination of bourbon, lemon juice, sugar syrup, bitters and egg white for a smooth, frothy drink",
+      "ingredients": [
+        "50ml Whisky",
+        "35ml Lemon Juice",
+        "12.5ml Sugar Syrup",
+        "2 Dashes Bitters",
+        "1/2 Fresh Egg White",
+        "Ice",
+        "Lemon Zest for garnish (Optional)",
+        "Slice of Orange for garnish (Optional)",
+        "Cherry for garnish (Optional)"
+      ],
+      "method": "Step 1: Add the whisky, lemon juice, sugar syrup, bitters and egg white to a cocktail shaker.\n\nStep 2: Shake vigorously without ice to emulsify the egg white.\n\nStep 3: Add ice and shake again until the outside of the shaker feels cold.\n\nStep 4: Strain into a glass filled with ice and garnish with lemon zest, a slice of orange and a cherry."
+    },
+    "Piña Colada": {
+      "description": "Tropical blend of rich coconut cream, white rum and tangy pineapple – serve with an umbrella for kitsch appeal",
+      "ingredients": [
+        "60ml White Rum",
+        "90ml Pineapple Juice",
+        "30ml Coconut Cream",
+        "Ice",
+        "Pineapple Slice for garnish (Optional)",
+        "Cherry for garnish (Optional)"
+      ],
+      "method": "Step 1: Put the white rum, pineapple juice and coconut cream into a cocktail shaker with a handful of ice.\n\nStep 2: Shake until as smooth as possible.\n\nStep 3: Pour into a chilled glass and garnish with a slice of pineapple and a cherry."
+    },
+    "Mai Tai": {
+      "description": "Classic tiki cocktail combining dark and light rum, orange curaçao, lime juice, and sugar syrup",
+      "ingredients": [
+        "25ml White Rum",
+        "1 tbsp Orange Curaçao",
+        "2 tsp Almond Syrup",
+        "25ml Lime Juice",
+        "2 tsp Sugar Syrup",
+        "25ml Dark Rum",
+        "Ice",
+        "Crushed Ice",
+        "Pineapple Wedge for garnish (Optional)",
+        "Lime Wheel for garnish (Optional)",
+        "Cocktail Cherry for garnish (Optional)"
+      ],
+      "method": "Step 1: Fill a cocktail shaker with ice cubes, then add the golden rum, orange curaçao, orgeat syrup, lime juice and sugar syrup.\n\nStep 2: Shake well until the outside of the shaker feels cold.\n\nStep 3: Fill a glass with crushed ice and strain the cocktail into the glass.\n\nStep 4: Float the dark rum on top by pouring it over the back of a spoon.\n\nStep 5: Garnish with a wedge of pineapple, a lime wheel and a cocktail cherry."
+    },
+    "Blue Lagoon": {
+      "description": "Vibrant blue cocktail combining vodka, blue curaçao, lemon juice and sparkling water - garnish with maraschino cherries if you're feeling fancy",
+      "ingredients": [
+        "25ml Vodka",
+        "25ml Blue Curaçao",
+        "25ml Lemon Juice",
+        "50ml Sparkling Water",
+        "Ice Cubes",
+        "Crushed Ice",
+        "Cocktail Cherry for garnish (Optional)"
+      ],
+      "method": "Step 1: Put the ice cubes in a cocktail shaker. Pour over the blue curaçao, vodka and lemon juice. Stir until the outside of the cocktail shaker feels cold.\n\nStep 2: Half-fill a tall cocktail glass with crushed ice, then strain in the cocktail.\n\nStep 3: Top up the cocktail glass with sparkling water and gently stir, then garnish with the maraschino cherries."
+    },
+    "Strawberry Daiquiri": {
+      "description": "Fruity twist on the classic daiquiri, blending white rum, lime juice, sugar syrup and fresh strawberries",
+      "ingredients": [
+        "50ml White Rum",
+        "25ml Lime Juice",
+        "15ml Sugar Syrup",
+        "4-5 Fresh Strawberries",
+        "Ice",
+        "Strawberry for garnish (Optional)"
+      ],
+      "method": "Step 1: Muddle the strawberries in a cocktail shaker.\n\nStep 2: Add the white rum, lime juice, sugar syrup and ice.\n\nStep 3: Shake well until the outside of the shaker feels cold.\n\nStep 4: Strain into a chilled glass and garnish with a strawberry."
+    },
+    "Espresso Martini": {
+      "description": "Classy, sophisticated cocktail combining vodka, coffee liqueur and freshly brewed espresso - a coffee lovers favourite",
+      "ingredients": [
+        "50ml Vodka",
+        "25ml Coffee Liqueur",
+        "25ml Freshly Brewed Espresso",
+        "Ice",
+        "Coffee Beans for granish (Optional)"
+      ],
+      "method": "Step 1: Fill a cocktail shaker with ice, then add the vodka, coffee liqueur and freshly brewed espresso.\n\nStep 2: Shake well until the outside of the shaker feels cold.\n\nStep 3: Strain into a martini glass and garnish with coffee beans."
+    },
+    "Caipirinha": {
+      "description": "South american favoiurite - this brazilian cocktail is made with white rum, lime and sugar, served over crushed ice",
+      "ingredients": [
+        "1 Lime, cut into wedges",
+        "2 tsp Sugar Syrup",
+        "60ml White Rum",
+        "Crushed Ice"
+      ],
+      "method": "Step 1: Muddle the lime wedges with the sugar syrup in a glass.\n\nStep 2: Fill the glass with crushed ice and pour over the white rum.\n\nStep 3: Stir well and serve."
+    },
+    "Long Island Iced Tea": {
+      "description": "potent mix of vodka, tequila, white rum, gin, triple sec, lemon juice and cola. Fortune favours the bold",
+      "ingredients": [
+        "15ml Vodka",
+        "15ml Tequila",
+        "15ml White Rum",
+        "15ml Gin",
+        "15ml Triple Sec",
+        "25ml Lemon Juice",
+        "Cola",
+        "Ice",
+        "Lemon Wedge for garnish (Optional)"
+      ],
+      "method": "Step 1: Fill a glass with ice and add the vodka, tequila, white rum, gin, triple sec and lemon juice.\n\nStep 2: Top up with cola to your liking and stir gently.\n\nStep 3: Garnish with a lemon wedge."
+    },
+    "Tom Collins": {
+      "description": "Refreshing gin-based cocktail with lemon juice, sugar syrup and sparkling water",
+      "ingredients": [
+        "50ml Gin",
+        "25ml Lemon Juice",
+        "25ml Sugar Syrup",
+        "125ml Sparkling Water",
+        "Ice",
+        "Lemon Slice for garnish (Optional)",
+        "Cherry for garnish (Optional)"
+      ],
+      "method": "Step 1: Fill a glass with ice and add the gin, lemon juice and sugar syrup.\n\nStep 2: Top up with sparkling water and stir gently.\n\nStep 3: Garnish with a lemon slice and a cherry."
+    },
+    "Rum Punch": {
+      "description": "Fruity and boozy punch combining dark and white rum with tropical juices and a dash of grenadine",
+      "ingredients": [
+        "25ml Dark Rum",
+        "25ml White Rum",
+        "50ml Orange Juice",
+        "50ml Pineapple Juice",
+        "Dash of Grenadine",
+        "Ice",
+        "Orange Slice for garnish (Optional)",
+        "Cherry for garnish (Optional)"
+      ],
+      "method": "Step 1: Fill a shaker with ice and pour in both rums, orange juice, pineapple juice, and grenadine.\n\nStep 2: Shake well until chilled.\n\nStep 3: Strain into a tall glass filled with ice and garnish with an orange slice and cherry."
+    },
+    "Aperol Spritz": {
+      "description": "Stone cold classic - this light and refreshing Italian aperitif made with Aperol, prosecco, and a splash of sparkling water",
+      "ingredients": [
+        "50ml Aperol",
+        "75ml Prosecco",
+        "25ml Sparkling Water",
+        "Ice",
+        "Orange Slice for garnish (Optional)"
+      ],
+      "method": "Step 1: Fill a large wine glass with ice.\n\nStep 2: Pour over the Aperol, followed by the prosecco, then top with sparkling water.\n\nStep 3: Stir gently and garnish with an orange slice."
+    },
+    "Tequila Sunrise": {
+      "description": "Visually striking cocktail made with tequila, orange juice, and grenadine - a match made in heaven",
+      "ingredients": [
+        "50ml Tequila",
+        "100ml Orange Juice",
+        "10ml Grenadine",
+        "Ice",
+        "Orange Slice for garnish (Optional)",
+        "Cherry for garnish (Optional)"
+      ],
+      "method": "Step 1: Fill a tall glass with ice and pour in the tequila and orange juice.\n\nStep 2: Slowly pour the grenadine down the side of the glass to create a sunrise effect.\n\nStep 3: Garnish with an orange slice and a cherry."
+    },
+    "Sex on the Beach": {
+      "description": "Crowd favourite - a fruity mix of vodka, peach schnapps, orange juice, and cranberry juice",
+      "ingredients": [
+        "25ml Vodka",
+        "25ml Peach Schnapps",
+        "50ml Orange Juice",
+        "50ml Cranberry Juice",
+        "Ice",
+        "Orange Slice for garnish (Optional)"
+      ],
+      "method": "Step 1: Fill a cocktail shaker with ice and add all the ingredients.\n\nStep 2: Shake well and strain into a highball glass filled with ice.\n\nStep 3: Garnish with an orange slice."
+    },
+    "Amaretto Sour": {
+      "description": "Sweet and tangy cocktail made with amaretto liqueur, lemon juice, and a touch of egg white for a velvety texture",
+      "ingredients": [
+        "50ml Amaretto",
+        "25ml Lemon Juice",
+        "12.5ml Sugar Syrup",
+        "1/2 Fresh Egg White (Optional)",
+        "Ice",
+        "Lemon Slice for garnish (Optional)",
+        "Cherry for garnish (Optional)"
+      ],
+      "method": "Step 1: Add the amaretto, lemon juice, sugar syrup, and egg white (if using) to a cocktail shaker without ice and gently shake to emulsify.\n\nStep 2: Add ice and shake again until well chilled.\n\nStep 3: Strain into a shallow glass filled with ice and garnish with a lemon slice and cherry."
+    },
+    "Hurricane": {
+      "description": "Cocktail with a statement - this bold number is made with dark and white rum, passion fruit juice, and citrus",
+      "ingredients": [
+        "25ml White Rum",
+        "25ml Dark Rum",
+        "50ml Passion Fruit Juice",
+        "25ml Orange Juice",
+        "10ml Lime Juice",
+        "10ml Grenadine",
+        "Ice",
+        "Orange Slice for garnish (Optional)",
+        "Cherry for garnish (Optional)"
+      ],
+      "method": "Step 1: Fill a shaker with ice and add all the ingredients.\n\nStep 2: Shake well and strain into a hurricane glass filled with ice.\n\nStep 3: Garnish with an orange slice and cherry."
+    },
+    "Pink Lady": {
+      "description": "Classic, elegant pink cocktail combining gin, grenadine, and egg white",
+      "ingredients": [
+        "45ml Gin",
+        "15ml Grenadine",
+        "15ml Lemon Juice",
+        "1/2 Fresh Egg White",
+        "Ice",
+        "Cherry for garnish (Optional)"
+      ],
+      "method": "Step 1: Add all ingredients to a cocktail shaker without ice and shake gently to emulsify the egg white.\n\nStep 2: Add ice and shake again until chilled.\n\nStep 3: Strain into a chilled cocktail glass and garnish with a cherry."
+    },
+    "Strawberry Mojito": {
+      "description": "Fruity twist on the classic mojito with fresh strawberries, lime, mint, rum and sparkling water",
+      "ingredients": [
+        "3-4 Fresh Strawberries",
+        "Half a Lime (cut into wedges)",
+        "15ml Sugar Syrup",
+        "Handful of Mint Leaves",
+        "60ml White Rum",
+        "Sparkling Water",
+        "Ice"
+      ],
+      "method": "Step 1: Muddle the strawberries, lime and sugar syrup in a glass.\n\nStep 2: Add the mint leaves and gently bruise.\n\nStep 3: Fill the glass with ice, pour over the rum and top with sparkling water. Stir well."
+    },
+    "Mint Julep": {
+      "description": "Refreshing whisky-based cocktail served with crushed ice and fresh mint",
+      "ingredients": [
+        "60ml Whisky",
+        "15ml Sugar Syrup",
+        "30ml Water",
+        "4 Mint Leaves",
+        "Crushed Ice",
+        "Mint Sprig for garnish (Optional)"
+      ],
+      "method": "Step 1: Muddle the mint leaves, sugar syrup and water in a julep cup or glass.\n\nStep 2: Fill the glass with crushed ice and add the bourbon.\n\nStep 3: Stir until the outside of the glass is frosty and garnish with a mint sprig."
+    },
+    "Hugo Spritz": {
+      "description": "Favourite of Lauren's - refreshing, floral, and herbal, the Hugo cocktail is a delightful choice for a delightful bride-to-be",
+      "ingredients": [
+        "Ice",
+        "120ml Prosecco",
+        "20ml Gin",
+        "20ml Elderflower Cordial",
+        "25ml Sparkling Water",
+        "1 Lime Wedge (to garnish)"
+      ],
+      "method": "Step 1: Gently scrunch the mint in your hands to lightly bruise it, then put in the bottom of a large wine glass. Pour over the elderflower cordial and gin and leave to infuse for 1-2 mins..\n\nStep 2: Fill the glass with ice, then pour over the soda water and prosecco. Stir gently to combine. Garnish with the lime wedge and mint sprig before serving."
+    },
+    "Purple Rain": {
+      "description": "Throwback! Mix up a batch of purple rain cocktail for a fun, retro and creative serve",
+      "ingredients": [
+        "Ice",
+        "30ml Vodka",
+        "30ml Gin",
+        "15ml Blue Curaçao",
+        "15ml Lime Juice",
+        "15ml Lemon Juice",
+        "15ml Grenadine",
+        "Sparkling Water",
+        "Lime Slices for garnish (Optional)"
+      ],
+      "method": "Step 1: Half fill a cocktail shaker with ice, then pour in the vodka, gin, blue curaçao, lime juice and lemon juice and stir well.\n\nStep 2: Top up with the sparkling water, grenadine and more ice, then stir again.\n\nStep 3: Half-fill a tall cocktail glass with ice and pour over the cocktail (optionally garnish with the slices of lime)."
+    },
+    "Passion Fruit Martini": {
+      "description": "Easy passion fruit cocktail that's bursting with zingy flavours - perfect for celebrating with friends",
+      "ingredients": [
+        "Ice",
+        "30ml Vodka",
+        "15ml Passion Fruit Liqueur",
+        "15ml Sugar Syrup",
+        "15ml Lime Juice",
+        "Passion Fruit for garnish (Optional)",
+        "Prosecco (To Serve)"
+      ],
+      "method": "Step 1: Scoop the seeds from one of the passion fruits into the glass of a cocktail shaker, add the vodka, passion fruit liqueur, lime juice and sugar syrup.\n\nStep 2: Add a handful of ice and shake well, strain into a martini glass, then add half a passion fruit for garnish. Be sure to fill a shot glass with Prosecco.\n\nStep 3: Serve! (You can decide whether to shot or dunk the proescco!)"
+    },
+    "Virgin Mojito": {
+      "description": "Refreshing, non-alcoholic mojito cocktail recipe that skips the usual rum to create a tasty booze-free blend",
+      "ingredients": [
+        "1 tbsp Sugar",
+        "Small Bunch of Mint",
+        "2 Limes, juiced",
+        "Sparkling Water",
+        "Crushed Ice"
+      ],
+      "method": "Step 1: Muddle the sugar with leaves from the mint using a pestle and mortar (or use a small bowl and the end of a rolling pin).\n\nStep 2: Put a handful of crushed ice into a tall glasses. Pour the lime juice into the glass with the mint mix. Add a straw and top up with sparkling water."
+    },
+    "Apple, Elderflower & Mint Sparkle": {
+      "description": "Fruity and creative non-alcoholic punch perfect for the anybody who wants to leave the alcohol aside",
+      "ingredients": [
+        "25ml Elderflower Cordial",
+        "100ml Cloudy Apple Juice",
+        "Small Handful of Mint Leaves, roughly chopped",
+        "Sparkling Water",
+        "Ice"
+      ],
+      "method": "Step 1: Mix the elderflower cordial with the cloudy apple juice. Add a small handful of mint leaves, stir well.\n\nStep 2: Pour juice into a glass and top up with sparkling water."
+    },
+    "Non-Alcoholic Sangria": {
+      "description": "Twist on the european classic. This gives fun and fruitiness of a summery sangria with none of the alcohol! Suitable for a large pitcher, but can be easily altered to be a single person drink!",
+      "ingredients": [
+        "1.5L Lemonade",
+        "300ml Cranberry Juice",
+        "300ml Orange Juice",
+        "Handful of Ice Cubes",
+        "1 Small Orange, sliced",
+        "1 Small Lemon, sliced",
+        "1 Lime, sliced",
+        "5 Strawberries, sliced lengthways",
+        "Handful of Fresh Mint Leaves"
+      ],
+      "method": "Step 1: Pour the lemonade, cranberry juice and orange juice into a large pitcher and stir well.\n\nStep 2: Add ice and the chopped fruit and mint in layers. Stir to combine.\n\nStep 3: Serve in goblet glasses or a large wine glass."
+    },
+    "Watermelon Cooler": {
+      "description": "Simple serve! No fancy equipment is needed to make this tasty watermelon drink! Best served chilled",
+      "ingredients": [
+        "300g Watermelon, peeled, seeds removed, chopped",
+        "1/4 Lemon, juice only",
+        "Ice",
+        "Fresh Mint Leaves for garnish"
+      ],
+      "method": "Step 1: Muddle the watermelon in the bottom of a glass, then stir in the lemon juice.\n\nStep 2: Sieve the watermelon if needed, pressing down gently on the pulp to extract all the juice.\n\nStep 3: Pour the juice into glasses filled with ice and garnish with the mint."
+    },
+    "Mint Lemonade": {
+      "description": "Homemade lemonade recipe which makes for a refreshing addition to any party",
+      "ingredients": [
+        "2 Lemons, juice only",
+        "1 Lime, juice only",
+        "5-6 tbsp Caster Sugar, to taste",
+        "4 Fresh Mint Sprigs (Optional)",
+        "Ice",
+        "Sparkling Water, to top-up"
+      ],
+      "method": "Step 1: Add the lemon juice to a glass with the lime juice and sugar. Stir well until the sugar is dissolved.\n\nStep 2: Top up with plenty of ice and sparkling water. Mix well and add more sugar, to taste.\n\nStep 3: Add the mint sprigs, if using, and stir well."
+    },
+    "Fruit Punch Mocktail": {
+      "description": "Fruit-flavoured mocktail with grenadine and orange juice. It's more fun with strawberry stirrers that double as a snack",
+      "ingredients": [
+        "1 tbsp Grenadine",
+        "100ml Orange Juice",
+        "Sparkling Water, to top-up",
+        "Srawberries for garnish (Optional)",
+        "Ice"
+      ],
+      "method": "Step 1: Pour the grenadine into four glasses. Gently tip the glasses and pour the orange juice down the inside of the glasses so it sits on top of the grenadine.\n\nStep 2: Top up with sparkling water, and add the strawberries (on skewers, if you have them!) to serve."
+    },
+    "Passion Fruit & Elderflower Spritz": {
+      "description": "Stylish passion fruit and elderflower number - your new go-to alcohol-free drink. It's fruity, fizzy and fabulous",
+      "ingredients": [
+        "50ml Passion Fruit Juice",
+        "25ml Lemon Juice",
+        "2 tsp Elderflower Cordial",
+        "150ml Sparkling Water",
+        "Ice"
+      ],
+      "method": "Step 1: Make sure all the ingredients are well chilled before you start. Ideally chill a flute glass too.\n\nStep 2: Pour all of the ingredients into your glass, taking your time when you add the sparkling water so it doesn't overflow, then stir gently."
+    }
+}
